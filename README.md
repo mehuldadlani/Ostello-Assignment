@@ -10,7 +10,10 @@ The design for this project can be viewed on Figma at the following link:
 An APK file of the app is available in this repository. You can download it by clicking [here](/app-release.apk).
 
 ## Video Demo
-A video demonstration of the assignment can be viewed [here](/2024-03-17%2023-52-38.mkv).
+[![Video Demo](https://img.youtube.com/vi/3DV2ueT8RLA/0.jpg)](https://www.youtube.com/watch?v=3DV2ueT8RLA)
+
+Click on the image above to watch a video demonstration of the assignment. 
+
 ## Technologies Used
 - Flutter
 - Dart
